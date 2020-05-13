@@ -1,7 +1,7 @@
 # AssignmentM5
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 5 Coding Assignment, completed.
 
-Link : 
+Link : https://tadithyad.github.io/AssignmentM5/
 
 Time to complete: About 30 minutes.
 
